@@ -141,7 +141,7 @@ void _buildSass({bool skipUpToDate = false}) {
   for (var source in Glob("asset/*.scss").listSync()) {
     var scssPath = p.normalize(source.path);
     var cssPath =
-        p.join("site", p.basenameWithoutExtension(source.path) + ".css");
+        p.join("docs", p.basenameWithoutExtension(source.path) + ".css");
 
     if (skipUpToDate && _isUpToDate(cssPath, scssPath, moduleModified)) {
       continue;

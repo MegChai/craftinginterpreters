@@ -50,7 +50,7 @@ img.dot {
 
 body {
   color: #222;
-  font: normal 16px/24px "Noto Serif SC", "Crimson", Georgia, serif;
+  font: normal 16px/24px "Crimson", Georgia, serif;
 }
 
 .sign-up {
@@ -101,7 +101,7 @@ body, h1, h2, h3, h4, p, blockquote, code, ul, ol, dl, dd, img {
 body {
   background: #29313d url("image/background.png") top center/100% auto no-repeat;
   color: #222;
-  font: normal 16px/24px "Noto Serif SC", "Crimson", Georgia, serif;
+  font: normal 16px/24px "Crimson", Georgia, serif;
 }
 
 a {
@@ -149,7 +149,7 @@ div.intro {
 div.intro blockquote {
   flex-basis: 40%;
   margin: 0 48px 0 0;
-  font: italic 28px/42px "Noto Serif SC", "Crimson", Georgia, serif;
+  font: italic 28px/42px "Crimson", Georgia, serif;
 }
 div.intro div.text {
   flex-basis: 60%;
@@ -243,7 +243,7 @@ a.action:hover small {
 }
 
 h3 {
-  font: italic 24px/24px "Noto Serif SC", "Crimson", Georgia, serif;
+  font: italic 24px/24px "Crimson", Georgia, serif;
   margin: 12px 0;
 }
 
@@ -296,7 +296,7 @@ footer a, footer a:hover {
   }
   div.intro blockquote {
     display: block;
-    font: italic 24px/36px "Noto Serif SC", "Crimson", Georgia, serif;
+    font: italic 24px/36px "Crimson", Georgia, serif;
   }
   div.intro div.text {
     display: block;

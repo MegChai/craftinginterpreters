@@ -1,14 +1,12 @@
-This may be the beginning of a grand adventure. Programming languages encompass
-a huge space to explore and play in. Plenty of room for your own creations to
-share with others or just enjoy yourself. Brilliant computer scientists and
-software engineers have spent entire careers traversing this land without ever
-reaching the end. If this book is your first entry into the country, welcome.
+一场宏伟的大冒险可能正悄然揭幕。
 
-The pages of this book give you a guided tour through some of the world of
-languages. But before we strap on our hiking boots and venture out, we should
-familiarize ourselves with the territory. The chapters in this part introduce
-you to the basic concepts used by programming languages and how those concepts
-are organized.
+编程语言（Programing Language）包含着巨大的探索和发挥空间，
+有足够大的舞台供人创造，你尽可选择完全自娱自乐，也可以主动地与人分享。
+有不少才华横溢的计算机科学家和软件工程师，倾尽整个职业生涯都在尝试穿越这片土地，
+却从未抵达过终点。如果这是你首次接触这个领域，欢迎你的到来。
 
-We will also get acquainted with Lox, the language we'll spend the rest of the
-book implementing (twice).
+这本书会不断带你游览世界上已有的一些编程语言。
+但在穿上登山靴外出探险之前，我们应该先熟悉一下这片区域。
+因此这本书的第一部分将向你介绍编程语言的基本概念，以及它们是如何组织的。
+
+我们还将首次接触到 Lox, 这本书的其余部分将帮助你实现它（并且实现两次）。

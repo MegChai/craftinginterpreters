@@ -1,31 +1,29 @@
-When the first copy of "[Game Programming Patterns][gpp]" sold, I guess I had
-the right to call myself an author. But it took time to feel comfortable with
-that label. Thank you to everyone who bought copies of my first book, and to the
-publishers and translators who brought it to other languages. You gave me the
-confidence to believe I could tackle a project of this scope. Well, that, and
-massively underestimating what I was getting myself into, but that's on me.
+当世界上第一本《[Game Programming Patterns][gpp]》售出后，我想我应当能够以“作者”的身份自称了，
+只是还需要花点时间去适应这个标签。
+感谢所有购买了我的处女作的读者，同时也要感谢出版社人员和各位译者，
+这本书的其它语言版本能够与大家见面，离不开诸位的努力。也是你们给予了我信心，
+让我能相信自己能有条不紊地处理好一切事物，整个过程中有不少挫折，但好在最终一切顺利。
 
 [gpp]: https://gameprogrammingpatterns.com/
 
-A fear particular to technical writing is *getting stuff wrong*. Tests and
-static analysis only get you so far. Once the code and prose is in ink on paper,
-there's no fixing it. I am deeply grateful to the many people who filed issues
-and pull requests on the [open source repo][repo] for the book. Special thanks
-go to cm1776, who filed 145 tactfully worded issues pointing out hundreds of
-code errors, typos, and unclear sentences. The book is more accurate and
-readable because of you all.
+技术写作最让人担心的事情是*内容有误*。
+毕竟测试和静态分析技术能起到的帮助有限，一旦代码和文本内容在纸上印刷出来，就再难勘正了。
+我由衷地感谢那些在本书的 [开源存储库][repo] 上提出问题并做出贡献的人，
+尤其是帮我改善了 145 处措辞的 cm1776,
+他还指出了书中上百个代码和文本拼写错误，以及含义模糊的语句。
+因为有了大家的帮助，这本书才能更准确、更易读。
 
 [repo]: https://github.com/munificent/craftinginterpreters
 
-I'm grateful to my copy editor Kari Somerton who braved a heap of computer
-science jargon and an unfamilar workflow in order to fix my many grammar errors
-and stylistic inconsistencies.
+我还要向我的文字编辑 Kari Somerton 表达感激之情，
+为了纠正我书中的语法错误和文体上的不一致，
+她勇敢地补习了大量的计算机科学术语，并很快适应了原本对她而言不算熟悉的工作流程。
 
-When the pandemic turned everyone's life upside down, a number of people reached
-out to tell me that my book provided a helpful distraction. This book that I
-spent six years writing forms a chapter in my own life's story and I'm grateful
-to the readers who contacted me and made that chapter more meaningful.
+当新冠疫情把每个人的生活搅得天翻地覆时，有不少人找到并且告诉我，
+说我的书为他们提供了一个有效的分散注意力的方法。
+说起这本书，我总共花了六年的时间来写作和完善它，而它也早已成为了我的人生中不可或缺的章节。
+感谢那些同我联系的读者，是他们让这一段篇章变得意义非凡。
 
-Finally, the deepest thanks go to my wife Megan and my daughters Lily and
-Gretchen. You patiently endured the time I had to sink into the book, and my
-stress while writing it. There's no one I'd rather be stuck at home with.
+最后，我要衷心地感谢我的妻子（Megan）和女儿们（Lily 与 Gretchen）。
+当我在家中全神贯注于写作时，你们从未进行打扰；而当我写作感到压力时，你们又给予了十足的耐心与宽容。
+

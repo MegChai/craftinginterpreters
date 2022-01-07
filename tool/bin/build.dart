@@ -168,7 +168,7 @@ Future<void> _runServer() async {
     }
 
     try {
-      var contents = await File(p.join("site", filePath)).readAsBytes();
+      var contents = await File(p.join("docs", filePath)).readAsBytes();
       return shelf.Response.ok(contents, headers: {
         HttpHeaders.contentTypeHeader: mimeFromExtension(extension)
       });
